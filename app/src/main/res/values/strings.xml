@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="detail">Detail</string>
+    <string name="sign_up">Sign up</string>
+    <string name="select_languange">Select languange</string>
+    <string name="log_out">Log out</string>
+    <string name="login">Log in</string>
+    <string name="email">Email</string>
+    <string name="enter_email">Enter email</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter password</string>
+    <string name="ask_account">"Don\'t have an account? "</string>
+    <string name="name">Name</string>
+    <string name="enter_name">Enter name</string>
+    <string name="already_account">"Already have an account? "</string>
+    <string name="add_story">Add Story</string>
+    <string name="story">Story</string>
+    <string name="description">Description</string>
+    <string name="capture_image">Capture image</string>
+    <string name="switch_camera">Switch camera</string>
+    <string name="image">Image</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="enter_description">Enter description</string>
+    <string name="upload">Upload</string>
+
+    <string name="succes">Succes</string>
+    <string name="succes_login">You are logged in!</string>
+    <string name="cont">Continue</string>
+
+    <string name="fail">Fail</string>
+    <string name="fail_login">Make sure your username and password are correct.</string>
+    <string name="fail_register">Account already used.</string>
+    <string name="back">Back</string>
+
+    <string name="fail_internet">Make sure you have an internet connection.</string>
+
+    <string name="succes_register">You have successfully created an account!</string>
+
+    <string name="fail_take_pict">Failed to take picture.</string>
+    <string name="fail_bring_camera">Failed to bring up the camera.</string>
+
+    <string name="no_permission">Not getting permissions.</string>
+    <string name="new_story">New Story</string>
+    <string name="succes_upload">Story uploaded successfully.</string>
+    <string name="image_first">Please enter the image file first.</string>
+    <string name="fail_instance">Retrofit instance failed</string>
+
+    <string name="valid_email">Must valid email</string>
+    <string name="valid_password">Password at least 6 character</string>
+
+    <string name="must_desc">Description cannot be empty</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="open_map">Open Map</string>
+    <string name="retry">Retry</string>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="detail">Detail</string>
+    <string name="sign_up">Daftar</string>
+    <string name="select_languange">Pilih bahasa</string>
+    <string name="log_out">Keluar</string>
+    <string name="login">Masuk</string>
+    <string name="email">Email</string>
+    <string name="enter_email">Masukkan email</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Masukkan password</string>
+    <string name="ask_account">"Belum punya akun? "</string>
+    <string name="name">Nama</string>
+    <string name="enter_name">Masukkan nama</string>
+    <string name="already_account">"Sudah punya akun? "</string>
+    <string name="add_story">Tambah Cerita</string>
+    <string name="story">Cerita</string>
+    <string name="description">Deskripsi</string>
+    <string name="capture_image">Menangkap gambar</string>
+    <string name="switch_camera">Mengganti kamera</string>
+    <string name="image">Gambar</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="enter_description">Masukkan deskripsi</string>
+    <string name="upload">Unggah</string>
+
+    <string name="succes">Sukses</string>
+    <string name="succes_login">Anda berhasil masuk!</string>
+    <string name="cont">Lanjut</string>
+
+    <string name="fail">Gagal</string>
+    <string name="fail_login">Pastikan username dan password anda sudah benar.</string>
+    <string name="fail_register">Akun sudah digunakan.</string>
+    <string name="back">Kembali</string>
+
+    <string name="fail_internet">Pastikan anda terhubung koneksi internet.</string>
+
+    <string name="succes_register">Anda berhasil membuat akun!</string>
+
+    <string name="fail_take_pict">Gagal mengambil gambar.</string>
+    <string name="fail_bring_camera">Gagal memunculkan kamera.</string>
+
+    <string name="no_permission">Tidak mendapatkan permission.</string>
+    <string name="new_story">Cerita Baru</string>
+    <string name="succes_upload">Cerita berhasil diunggah.</string>
+    <string name="image_first">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="fail_instance">Gagal instance Retrofit</string>
+
+    <string name="valid_email">Format email harus benar</string>
+    <string name="valid_password">Password tidak boleh kurang dari 6 karakter</string>
+
+    <string name="must_desc">Deskripsi tidak boleh kosong</string>
+    <string name="title_activity_maps">Peta</string>
+    <string name="open_map">Buka Peta</string>
+    <string name="retry">Muat ulang</string>
+</resources>
